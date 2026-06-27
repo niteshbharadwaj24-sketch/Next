@@ -7,7 +7,7 @@ Age int not null,
 salary int default 25000
 );
 
-drop table employee
+drop table employee ALLOCATE
 
 select * from employee
 
