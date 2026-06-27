@@ -23,3 +23,6 @@ insert into employee(id,name,age) values(2,'sp',91);
 insert into student values(3,'PK',29);
 
 select * from employee
+
+
+just for test
